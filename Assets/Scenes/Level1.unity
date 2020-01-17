@@ -5238,5 +5238,25 @@ PrefabInstance:
       propertyPath: leaderboardName
       value: 
       objectReference: {fileID: 1608654170}
+    - target: {fileID: 8993886462105413691, guid: 815269ccbaafc4995bff9a3861e0f318,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.548
+      objectReference: {fileID: 0}
+    - target: {fileID: 8993886462105413691, guid: 815269ccbaafc4995bff9a3861e0f318,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 7.0096536
+      objectReference: {fileID: 0}
+    - target: {fileID: 8993886462105413691, guid: 815269ccbaafc4995bff9a3861e0f318,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.104
+      objectReference: {fileID: 0}
+    - target: {fileID: 8993886462105413691, guid: 815269ccbaafc4995bff9a3861e0f318,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 8.264587
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 815269ccbaafc4995bff9a3861e0f318, type: 3}
